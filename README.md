@@ -1,2 +1,0 @@
-# tadabot---
-TadaBOT source code
