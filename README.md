@@ -1,5 +1,5 @@
 # Tadabot
-Hold giveaways quickly and easily on your Discord server! GiveawayBot is powered by [DiscordJS](https://github.com/discordjs/discord.js).
+Hold giveaways quickly and easily on your Discord server! TadaBot is powered by [DiscordJS](https://github.com/discordjs/discord.js).
 ## Invite
 If you'd like to add **TadaBot** to your server, use the following link:<br>
 🔗 **http://tadabot.ga**
